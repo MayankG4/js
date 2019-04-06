@@ -87,3 +87,4 @@ $mageRunType = isset($_SERVER['MAGE_RUN_TYPE']) ? $_SERVER['MAGE_RUN_TYPE'] : 's
 Mage::run($mageRunCode, $mageRunType);
 echo  "hi";
 echo  "hello2";
+echo  "hello1";
